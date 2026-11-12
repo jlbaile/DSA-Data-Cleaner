@@ -270,4 +270,3 @@ Group project for Data Scalability and Analytics (BSIT).
 | _name_ | _contribution_ |
 | _name_ | _contribution_ |
 
-_Add a license here (for example MIT) if you plan to share the code publicly._
